@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">s7circular</string>
+    <string name="phone_number">Phone number</string>
+    <string name="_0038762000000">0038762000000</string>
+    <string name="s7circular">s7circular</string>
+    <string name="android_based_anonymous_call_pool_ddos_attack">Android-based anonymous call pool DDoS attack</string>
+    <string name="todo">TODO</string>
 </resources>
